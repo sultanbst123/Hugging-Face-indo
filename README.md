@@ -1,2 +1,6 @@
 # Hugging-Face-contributor
-On progress
+
+Halo, ini adalah repo untuk model fine tune bahsa Indonesia di hugging face 
+
+
+
