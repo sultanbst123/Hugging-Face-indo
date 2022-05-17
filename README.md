@@ -9,7 +9,7 @@ Halo, ini adalah repo untuk model fine tune & Dataset bahasa Indonesia di huggin
 
 
 ## Dataset
-- Indonesian Recipe for task Text Generation [[Code] & [dataset](https://huggingface.co/datasets/Sultannn/id_recipe")]
+- Indonesian Recipe for task Text Generation [Code & [dataset](https://huggingface.co/datasets/Sultannn/id_recipe")]
 - <i> Coming Soon!!!! </i>
 - <i> Coming Soon!!!! </i>
 
