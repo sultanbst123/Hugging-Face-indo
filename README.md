@@ -2,7 +2,7 @@
 
 Halo, ini adalah repo untuk model fine tune & Dataset bahasa Indonesia di hugging face. 
 
-
+- Token Classification with xtreme ID [
 
 
 
